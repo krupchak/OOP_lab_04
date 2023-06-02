@@ -1,0 +1,13 @@
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.deps.json
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.csproj.AssemblyReference.cache
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.csproj.CopyComplete
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb

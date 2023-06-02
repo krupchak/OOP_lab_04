@@ -1,0 +1,5 @@
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\net6.0\P01_BillsPaymentSystem.Data.csproj.AssemblyReference.cache
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\net6.0\P01_BillsPaymentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\net6.0\P01_BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\net6.0\P01_BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\Навчання\2_курс\2_семестр\ООП\OOP_lab_04\AdvencedRelations\P01_BillsPaymentSystem.Data\obj\Debug\net6.0\P01_BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
